@@ -1,8 +1,8 @@
-.bracket{
+.direction{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: red;
 }
-.play,h3{
+.name,h3{
     font-family: 'Courier New', Courier, monospace;
     color: green;
 }
@@ -26,10 +26,42 @@
     font-weight: bold;
     color: grey;
 }
-p{
+.speech{
     font-family: 'Courier New', Courier, monospace;
 }
-.bracket:hover{
+.direction:hover{
     background-color: lightblue;
     color: orangered;
+}
+table, th, td {
+    border: 1px solid;
+    width: max-content;
+    border-collapse: collapse;
+    text-align: center ;
+    background-color: beige;
+    padding: 15px;
+    margin: left;
+}
+tr :nth-child(even){
+    background-color: aqua;
+}
+.lovborg:hover{
+    background-color: grey;
+    color: black;
+    text-shadow: 2px 2px;
+}
+.hedda:hover{
+    background-color: grey;
+    color: black;
+    text-shadow: 2px 2px;
+}
+.brack:hover{
+    background-color: grey;
+    color: black;
+    text-shadow: 2px 2px;
+}
+.tesman:hover{
+    background-color: grey;
+    color: black;
+    text-shadow: 2px 2px;
 }
