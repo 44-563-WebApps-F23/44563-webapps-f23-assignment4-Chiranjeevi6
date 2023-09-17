@@ -1,0 +1,35 @@
+.bracket{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: red;
+}
+.play,h3{
+    font-family: 'Courier New', Courier, monospace;
+    color: green;
+}
+.lovborg{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: blue;
+}
+.brack{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    color: coral;
+}
+.tesman{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: cyan;
+}
+.hedda{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    color: grey;
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+}
+.bracket:hover{
+    background-color: lightblue;
+    color: orangered;
+}
