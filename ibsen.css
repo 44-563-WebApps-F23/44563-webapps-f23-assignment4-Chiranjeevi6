@@ -56,22 +56,22 @@ tr:first-child{
 .lovborg:hover{
     background-color: grey;
     color: black;
-    text-shadow: 2px 2px;
+    text-shadow: 2px 7px 10px black;
 }
 .hedda:hover{
     background-color: grey;
     color: black;
-    text-shadow: 2px 2px;
+    text-shadow: 2px 7px 10px black;
 }
 .brack:hover{
     background-color: grey;
     color: black;
-    text-shadow: 2px 2px;
+    text-shadow: 2px 7px 10px black;
 }
 .tesman:hover{
     background-color: grey;
     color: black;
-    text-shadow: 2px 2px;
+    text-shadow: 2px 7px 10px black;
 }
 li {
     float: left;
